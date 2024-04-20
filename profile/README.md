@@ -2,7 +2,7 @@
 
 [Project Wiki Page](https://github.com/the-world-congress-project/.github/wiki/Engineering)
 
-# "Empowering global voices, one person at a time."
+**"Empowering global voices, one person at a time."**
 
 "세계인의 목소리와 AI 기술의 힘을 결집하여 모두를 포용하고 투명하며 공평한 미래를 만듭니다."
 
