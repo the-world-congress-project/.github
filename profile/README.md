@@ -1,5 +1,7 @@
 # 더 월드 콩그레스(The World Congress) - 당신의 세계, 당신의 목소리
 
+[Project Wiki Page](https://github.com/the-world-congress-project/.github/wiki/Engineering)
+
 ## 소개
 - 더 월드 콩그레스의 목적과 비전
 - AI와 액체 민주주의를 통한 시민 참여 혁신
@@ -53,4 +55,3 @@
    - 유사한 관심사를 가진 다른 사용자와 교류할 수 있는 기회 제공
 
 
-[Wiki Page](https://github.com/the-world-congress-project/.github/wiki/Engineering)
