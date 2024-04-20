@@ -1,14 +1,56 @@
-## Hi there 👋
+# 더 월드 콩그레스(The World Congress) - 당신의 세계, 당신의 목소리
 
-<!--
+## 소개
+- 더 월드 콩그레스의 목적과 비전
+- AI와 액체 민주주의를 통한 시민 참여 혁신
+- 플랫폼의 주요 기능과 특징
 
-**Here are some ideas to get you started:**
+## 우리의 원칙
+1. AI는 인간의 의견을 대변
+2. 사람들은 AI가 대변하는 선택을 변경 가능
+3. AI는 결정 과정을 투명하게 설명
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 주요 기능
+- 전 세계 시민들의 의견 공유 및 결의안 작성
+- AI 중재자 "Consensus"의 역할
+- 액체 민주주의: 위임, 대리, 변경
+- ACT 토큰 경제와 참여 보상 체계
+- 주간 결의안 채택 및 공포 프로세스
+
+## 사용자 경험
+- 소망 게시 및 ACT 토큰 사용 예시
+- Consensus AI의 소망 처리 과정
+- 실시간 결의안 업데이트 및 사용자 투표
+- 주간 결의안 선정 및 공포
+
+## 사용자 여정
+1. 회원 가입 및 프로필 설정
+   - 간단한 회원 가입 절차를 통해 플랫폼에 가입
+   - 관심 분야, 지역, 및 기본 정보를 입력하여 맞춤형 경험 제공
+
+2. 소망 게시 및 ACT 토큰 사용
+   - 변화를 위한 아이디어나 제안을 간단히 작성하여 게시
+   - ACT 토큰을 사용하여 소망 게시 및 다른 사용자의 소망에 투표
+
+3. Consensus AI의 소망 분석 및 결의안 작성
+   - AI가 사용자의 소망을 분석하고 유사한 아이디어를 그룹화
+   - 사용자 의견을 바탕으로 잠재적 결의안 초안 작성
+
+4. 실시간 결의안 업데이트 및 투표
+   - 플랫폼에 지속적으로 업데이트되는 결의안 초안을 확인
+   - 관심 있는 결의안에 투표하여 의견 표명
+
+5. 주간 결의안 선정 및 공포
+   - 매주 가장 많은 지지를 받은 결의안이 공식 채택
+   - 채택된 결의안은 플랫폼 내에서 공유되고 홍보
+
+6. 대리인 선정 및 위임
+   - 관심사가 유사하거나 전문성을 가진 대리인을 선택
+   - 원하는 때에 언제든지 대리인 변경 가능
+
+7. 개인화된 피드 및 추천
+   - 사용자의 관심사와 활동을 기반으로 맞춤형 콘텐츠 제공
+   - 유사한 관심사를 가진 다른 사용자와 교류할 수 있는 기회 제공
+
 
 [Wiki Page](https://github.com/the-world-congress-project/.github/wiki/Engineering)
